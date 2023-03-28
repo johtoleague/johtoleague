@@ -1,4 +1,4 @@
-[![](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hello+World!;Welcome+to+my+profile!;Malware+Analyst;Threat+Hunter;Reverse+Engineer+%F0%9F%91%87+)](https://johto.dev)  
+[![](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hello+World!;Welcome+to+my+profile!+%F0%9F%91%87+;Malware+Analyst;Threat+Hunter;Reverse+Engineer)](https://johto.dev)  
 
 [![](https://komarev.com/ghpvc/?username=johtoleague&style=for-the-badge)](https://johto.dev)  
 ---
