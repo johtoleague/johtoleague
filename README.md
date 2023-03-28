@@ -3,7 +3,7 @@
 [![](https://komarev.com/ghpvc/?username=johtoleague&style=for-the-badge)](https://johto.dev)  
 ---
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johtoleague&hide_progress=true&langs_count=12)](https://github.com/johtoleague/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdeadcell&bg_color=00000000&border_color=aaaaaa88&text_color=888888)](https://github.com/johtoleague/github-readme-stats)
 
 ---
 
